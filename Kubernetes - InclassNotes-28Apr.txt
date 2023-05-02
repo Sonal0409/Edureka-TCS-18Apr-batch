@@ -1484,6 +1484,24 @@ pod -- namespace prod
 service: service2
 
 
+Labs for deployment:
+
+https://github.com/Sonal0409/Container-Orchestration-using-Kubernetes/tree/main/Day2-Notes/Deployment
+
+Labs for service object:
+
+https://github.com/Sonal0409/Container-Orchestration-using-Kubernetes/tree/main/Day2-Notes/ServicesDemo
+
+Labs for Volume:
+
+https://github.com/Sonal0409/DevOps_ClassNotes/tree/master/Kubernetese/PersistentVolume
+
+HPA:
+
+https://github.com/Sonal0409/DevOps_ClassNotes/tree/master/Kubernetese/hpa
+
+Network ploicy
+
 https://github.com/Sonal0409/Container-Orchestration-using-Kubernetes/tree/main/Day 3 - Notes/Networking/policies
 
 
