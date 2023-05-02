@@ -1504,6 +1504,10 @@ Network ploicy
 
 https://github.com/Sonal0409/Container-Orchestration-using-Kubernetes/tree/main/Day 3 - Notes/Networking/policies
 
+Springboot MongoDB
+
+https://github.com/Sonal0409/Container-Orchestration-using-Kubernetes/blob/main/Day Notes/Networking/policies/springboot-mongo-app.yml
+
 
 
 
